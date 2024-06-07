@@ -1,0 +1,66 @@
+Folder PATH listing for volume Windows
+Volume serial number is 06F2-F752
+C:.
+¦   index.html
+¦   structure.txt
+¦   
++---assets
+¦   +---img
+¦   ¦   ¦   avataaars.svg
+¦   ¦   ¦   bg-hero.png
+¦   ¦   ¦   favicon.png
+¦   ¦   ¦   
+¦   ¦   +---events
+¦   ¦           cabin.png
+¦   ¦           cake.png
+¦   ¦           circus.png
+¦   ¦           default_event_picture.png
+¦   ¦           game.png
+¦   ¦           safe.png
+¦   ¦           submarine.png
+¦   ¦           
+¦   +---mail
+¦           contact_me.js
+¦           contact_me.php
+¦           jqBootstrapValidation.js
+¦           
++---css
+¦       styles.css
+¦       
++---js
+¦       scripts.js
+¦       
++---users
+    ¦   401.html
+    ¦   404.html
+    ¦   500.html
+    ¦   bookings.html
+    ¦   change_password.html
+    ¦   conditions.html
+    ¦   create_events.html
+    ¦   events.html
+    ¦   event_detail.html
+    ¦   index.html
+    ¦   login.html
+    ¦   password.html
+    ¦   privacy.html
+    ¦   profile.html
+    ¦   register.html
+    ¦   
+    +---assets
+    ¦   +---demo
+    ¦   ¦       chart-area-demo.js
+    ¦   ¦       chart-bar-demo.js
+    ¦   ¦       chart-pie-demo.js
+    ¦   ¦       datatables-demo.js
+    ¦   ¦       
+    ¦   +---img
+    ¦           error-404-monochrome.svg
+    ¦           favicon.png
+    ¦           
+    +---css
+    ¦       styles.css
+    ¦       
+    +---js
+            scripts.js
+            
